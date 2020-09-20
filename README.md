@@ -1,5 +1,5 @@
-# Services.com(In Progress)
-#To form a working website for services
+# Services.com
+#(In Progress)To form a working website for services
 
 -> Here we added all the php serverside work on the includes folder,and the can not be reached directl from url. 
 -> Sighnup.inc.php    here we have a problem that it stuck on a if condition of it, i need to be corrected.
